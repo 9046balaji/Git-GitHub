@@ -1,3 +1,7 @@
 function login() {
-    return false;
+    return true;
+}
+
+function logout() {
+    return true;
 }
