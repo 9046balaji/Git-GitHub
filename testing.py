@@ -1,4 +1,4 @@
-testing git command for staging and commiting
+testing git commands for staging and commiting
 git reset
 git commit --amend
 git commit --all
