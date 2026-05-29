@@ -10,3 +10,4 @@ git commit -a
 git reset --soft HEAD~1
 git reset --hard HEAD~1
 git commit --no-verify
+git reser --soft commit hash
