@@ -12,5 +12,5 @@ git reset --hard HEAD~1
 git commit --no-verify
 git reser --soft commit hash
 git diff --staged
-git clean -fd
-git clean -n
+git clean -f
+git clean -xfd
