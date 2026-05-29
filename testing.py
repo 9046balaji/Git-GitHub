@@ -1,0 +1,1 @@
+testing git reset and git commit --amend commands
