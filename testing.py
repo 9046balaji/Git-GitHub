@@ -14,3 +14,5 @@ git reser --soft commit hash
 git diff --staged
 git clean -f
 git clean -xfd
+git submodule add <url>
+git submodule init
