@@ -1,3 +1,0 @@
-testing git reset --soft HEAD~!
-testing git reset --hard HEAD~!
-testing git commit --no-verify
