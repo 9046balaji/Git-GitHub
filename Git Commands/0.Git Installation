@@ -1,0 +1,91 @@
+```markdown
+## Git Installation Guide
+
+Before you can start tracking your code, you need to install Git on your computer. Here is the official download link and simple steps for every operating system.
+
+### Official Download Link
+Always download Git from the official website:
+👉 **[https://git-scm.com/downloads](https://git-scm.com/downloads)**
+
+---
+
+### 🪟 Windows Installation Steps
+
+1. **Download the Installer:** Go to the download link above and click on **Windows**. It will download an `.exe` setup file.
+2. **Run the Setup:** Double-click the downloaded file to start the installation wizard.
+3. **Click Next (Keep Defaults):** You will see a lot of settings pages. You can safely click **Next** on all of them using the default selections. 
+   * *Tip:* Make sure the checkbox for **Git Bash** is selected. Git Bash is a great terminal for running Git commands on Windows.
+4. **Finish:** Click **Finish** when done.
+
+---
+
+### 🍏 Mac (macOS) Installation Steps
+
+There are two very easy ways to install Git on a Mac:
+
+#### Method 1: Using the Terminal (Easiest)
+1. Open your Mac's built-in **Terminal** application.
+2. Type the following command and press Enter:
+```bash
+   git --version
+
+```
+
+3. If Git is not installed yet, a popup window will appear saying you need the "Xcode Command Line Tools."
+4. Simply click **Install** on that popup, agree to the terms, and your Mac will handle the rest automatically.
+
+#### Method 2: Using Homebrew (If you already have it)
+
+If you use the Homebrew package manager, just open your Terminal and run:
+
+```bash
+brew install git
+
+```
+
+---
+
+### 🐧 Linux Installation Steps
+
+Linux makes it incredibly simple to install Git using your distribution's built-in package manager. Open your terminal and run the command that matches your Linux version:
+
+#### For Ubuntu / Debian / Linux Mint:
+
+```bash
+sudo apt update
+sudo apt install git -y
+
+```
+
+#### For Fedora / Red Hat (RHEL):
+
+```bash
+sudo dnf install git -y
+
+```
+
+#### For Arch Linux:
+
+```bash
+sudo pacman -S git
+
+```
+
+---
+
+### ✅ Verify Your Installation
+
+Once you are done installing Git on Windows, Mac, or Linux, let's make sure it is working perfectly.
+
+Open your terminal (or **Git Bash** on Windows) and type:
+
+```bash
+git --version
+
+```
+
+If it successfully prints a number out (like `git version 2.x.x`), **congratulations!** Git is installed correctly on your system, and you are ready to configure your identity.
+
+```
+
+```
