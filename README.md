@@ -72,6 +72,11 @@ Advanced: Hooks → Stashing → Tags → Submodules
 - Code blocks show exact commands to run in your terminal
 - Tips and warnings highlight important considerations
 
+## 👨‍💻 Author
+
+**Konda Balaji Rao**  
+📧 Email: balajikonda9046@gmail.com
+
 ## 🤝 Contributing
 
 This is a learning repository. Feel free to:
